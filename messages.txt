@@ -2,3 +2,5 @@
 
 "add a dark theme toggler"
 
+"change the app name displayed to \"Tickets App\""
+
